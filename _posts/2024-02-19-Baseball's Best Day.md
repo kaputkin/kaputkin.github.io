@@ -22,7 +22,7 @@ What about other days? Do some players just have a special day that they have pe
 How about exceptionally bad? There are 108 players in MLB history, who have had at least 20 at bats on a particular date throughout their careers but never had a hit that day. Nomar Garciaparra is 0-34 on July 15th throughout his 14 year career (some of those games were all-star games).
 
 
-Thanks to the incredible [baseball.computer](baseball.computer) project for access to the stats. The query is set up to pull every at bat a player had in their career and then group by the month and day. The baseball.computer database makes this easy. 
+Thanks to the incredible baseball.computer project for access to the stats. The query is set up to pull every at bat a player had in their career and then group by the month and day. The baseball.computer database makes this easy. 
 
     SELECT
       first_name,
