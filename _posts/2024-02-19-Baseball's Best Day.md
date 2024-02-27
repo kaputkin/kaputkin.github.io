@@ -8,28 +8,22 @@ tags: [Useless Baseball Stats]
 
 Superstition rules baseball. Rituals and routines come in many forms with players, managers, coaches and fans all taking part. When batters string together a few hits you can bet there is a superstitious habit formed to preserve the streak. Even more so when trying to break a slump. Aaron Judge reportedly will chew two pieces of double-bubble before his first at bat, and if he gets a hit, he keeps it until he doesn't, then it's time for a new chew. 
 
-Some days are just good days, and some days are just bad days. But what about birthdays? Are there any players that have performed exceptionally well on their birthdays? One way to get at this is simply looking at batting average on a players birthday throughout their career. 
+Some days are just good days, and some days are just bad days. But what about birthdays? Are there any players that have performed exceptionally well on their birthdays? One way to get at this is to simply look at the batting average a player over on their birthday-games throughout their career. (For the record, Aaron Judge is hitting .412 on his birthday so far.)
 
-Warren Cromartie takes the cake on this one. Cromartie, once a popular Expos outfielder and later the 1989 MVP in Japan's NBP league, played four times on his birthday going 7 for 12 for .538 average. Only 21 players in MLB history who have at least 10 at bats on their birth have hit over .500 those days. 
-
-### Best Birthday Batters
+Warren Cromartie takes the cake on this one. Cromartie, once a popular Expos outfielder and later the 1989 MVP in Japan's NBP league, played four times on his birthday going 7 for 12 for .538 average. Perhaps more impressive though is Fernando Vina, who had 40 birthday at bats in his career and hit .525 on those days.
 
 <iframe title="Best Birthday Batters " aria-label="Table" id="datawrapper-chart-gEbJx" src="https://datawrapper.dwcdn.net/gEbJx/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1246" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
-What about other days? Do some players just have a special day that they have performed exceptionally well? No one who has played at least five games on a particular day is batting 1.000 on that day, but there are some stand outs. Ketel Marte is 14-21 for a .667 average on Just 20th. Hall-of-Famer Frankie Frisch, who emerged in 1919 and played 19 season, certainly has a special day. Over 42 at bats on June 9th, Frisch batted .643. 
+What about other days? Do some players just have a special day that they have performed exceptionally well on? No one who has ever had twenty or more at bats on a particular day over their career has batted 1.000 on that day, but there are some stand outs. Active players Ketel Marte and CJ Cron both have days with 21 career at bats and a .667 average. Hall-of-Famer Frankie Frisch, who debuted in 1919 and played 19 season, certainly has a special day. Over 42 at bats on June 9ths in his career, Frisch batted .643. 
 
-### Notable Good Days
+<iframe title="Best Batter Days" aria-label="Table" id="datawrapper-chart-7JoWE" src="https://datawrapper.dwcdn.net/7JoWE/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="477" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
 
+How about exceptionally bad? There are 108 players in MLB history, who have had at least 20 at bats on a particular date throughout their careers but never had a hit that day. Nomar Garciaparra is 0-34 on July 15th throughout his 14 year career (some of those games were all-star games). Notably, Hall-of-famer Barry Larking went an impressive 3 for 57 on July 7ths throughout his career. Just not his day, I guess! 
 
-
-| Who? | When?  | H/AB | Average |
-|--|--|--|--|
-| Frankie Frisch | June 9s (1919-1937) | 27/42 | .643 |
-| Ketel Marte | June 20s (2015-2023) | 14/21 | .667 |
-
-How about exceptionally bad? There are 108 players in MLB history, who have had at least 20 at bats on a particular date throughout their careers but never had a hit that day. Nomar Garciaparra is 0-34 on July 15th throughout his 14 year career (some of those games were all-star games).
-
+<iframe title="Bad Batter Days" aria-label="Table" id="datawrapper-chart-wS7YR" src="https://datawrapper.dwcdn.net/wS7YR/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="477" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
 
 Thanks to the incredible baseball.computer project for access to the stats. The query is set up to pull every at bat a player had in their career and then group by the month and day. The baseball.computer database makes this easy. 
 
