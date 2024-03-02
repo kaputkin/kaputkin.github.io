@@ -1,5 +1,5 @@
 ---
-title: Baseball's Best Day
+title: Baseball's Birthday Bashers
 author: Ari
 date: 2024-02-21 00:34:00 +0800
 categories: [Baseball, SQL, Python]
